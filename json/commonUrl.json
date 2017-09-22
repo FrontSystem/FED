@@ -1,0 +1,1306 @@
+[
+    {
+        "href": "http://www.diyiziti.com/",
+        "projectName": "字体转换器在线转换",
+        "degree": "low",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://cn.vuejs.org/v2/guide/syntax.html",
+        "projectName": "Vue.js",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://git-scm.com/book/zh/v2",
+        "projectName": "Git Book",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.runoob.com/w3cnote/git-guide.html",
+        "projectName": "Github 简明教程",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/xiaohuochai/p/5923469.html",
+        "projectName": "深入学习jQuery元素尺寸和位置操作",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.163.com/ruby_study/blog/static/238680065201611303416839/",
+        "projectName": "document.selection.createRange方法和TextRange对象 ",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.runoob.com/jquery/jquery-plugin-validate.html",
+        "projectName": "jQuery Validate",
+        "degree": "high",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://segmentfault.com/q/1010000007763207/a-1020000007763387",
+        "projectName": "event.originalEvent.wheelDelta和event.wheelDelta区别",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://sentsin.com/web/759.html",
+        "projectName": "jQ的DOM事件机制 原生event的封装",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/luckyJieXu/article/details/71171603",
+        "projectName": "js多图片上传--一次性上传多张",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jb51.net/Special/200.htm",
+        "projectName": "jQuery常用插件及用法总结",
+        "degree": "super",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jb51.net/Special/539.htm",
+        "projectName": "jQuery表格操作汇总",
+        "degree": "super",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jb51.net/css/493362.html",
+        "projectName": "史上最全的CSS hack方式一览(兼容多浏览器)",
+        "degree": "super",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://shouce.jb51.net/csshack/",
+        "projectName": "CSS hack技巧大全",
+        "degree": "super",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://shouce.jb51.net/react/",
+        "projectName": "深入理解React",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://clipboardjs.com/",
+        "projectName": "clipboardjs",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jb51.net/article/74251.htm",
+        "projectName": "jQuery zclip插件实现跨浏览器复制功能",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/PeunZhang/p/3324727.html",
+        "projectName": "js实现复制到剪贴板功能，兼容所有浏览器",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.haorooms.com/post/html_meta_ds",
+        "projectName": "html的meta总结，html标签中meta属性使用介绍",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/PeunZhang/p/4709822.html",
+        "projectName": "移动web点5像素的秘密",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/PeunZhang/p/3441110.html",
+        "projectName": "高清显示屏原理及设计方案",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.haorooms.com/post/qd_ghfx",
+        "projectName": "分享几个前端干货，面试经常提",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.haorooms.com/post/window_godMode",
+        "projectName": "windows上帝模式，学无止境",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/kongjiea/article/details/17092413",
+        "projectName": "html5手机网站需要加的那些meta/link标签，html5 meta全解",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/kongjiea/article/details/39644623",
+        "projectName": "js获取url传递参数，js获取url？号后面的参数",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/twoByte/article/details/52250205",
+        "projectName": "clipBoardEvent, execCommand等粘贴板相关研究",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.codeweblog.com/jquery%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95contextmenu%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8/",
+        "projectName": "jQuery右键菜单ContextMenu详细使用",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://www.baidu.com/home/news/data/newspage?nid=3734295558849505621&n_type=0&p_from=1&dtype=-1",
+        "projectName": "前端开发：jQuery 表格 插件",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.kuitao8.com/20140305/2088.shtml",
+        "projectName": "jQuery.event 事件机制 全解析(一)",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.kuitao8.com/all_20",
+        "projectName": "网站特效",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.thinksaas.cn/topics/0/378/378550.html",
+        "projectName": "TextRange对象参考",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/jscode/p/3600060.html",
+        "projectName": "HTML5新特性之Mutation Observer",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://resource.haorooms.com/",
+        "projectName": "haorooms前端资料库搜索",
+        "degree": "super",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/lhb25/p/drag-drop-reordering-with-sortable.html",
+        "projectName": "Sortable – 简单灵活的 JavaScript 拖放排序插件",
+        "degree": "middle",
+        "description": "插件",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.haorooms.com/archives",
+        "projectName": "haorooms文章存档",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/m372897500/article/details/51478111",
+        "projectName": "程序员必须知道的10大基础实用算法及其讲解(Javascript代码实现)",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/basic/summaryReportDetail/list?reportId=402881615bf6dc54015bf6dd8cfa0001&ecotopeGroupId=402881615b65556b015b669cf06c0002#",
+        "projectName": "汇总报告模板详情列表",
+        "degree": "high",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://192.168.30.114:8088/BCP/",
+        "projectName": "金种子云平台",
+        "degree": "middle",
+        "description": "远程测试地址",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.javascriptmvc.com/docs/index.html",
+        "projectName": "JavaScriptMVC",
+        "degree": "middle",
+        "description": "MVC框架",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jq22.com/",
+        "projectName": "jQuery插件库",
+        "degree": "middle",
+        "description": "插件库",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://github.com/",
+        "projectName": "GitHub",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://my.csdn.net/my/mycsdn",
+        "projectName": "我的CSDN",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.dowebok.com/",
+        "projectName": "dowebok",
+        "degree": "middle",
+        "description": "插件库",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.kendoui.io/",
+        "projectName": "KendoUI",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://caniuse.com/#search=localStorage",
+        "projectName": "兼容性测试",
+        "degree": "middle",
+        "description": "测试工具",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://192.168.30.103:81/zentao/my/",
+        "projectName": "禅道",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/scheme/scheme/tab?type=list&userName=admin",
+        "projectName": "区试方案",
+        "degree": "middle",
+        "description": "NTP测试地址",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://mail.nercita.org.cn/",
+        "projectName": "NERCITA邮件系统",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://123.127.160.73:8088/NTP/login.jsp",
+        "projectName": "水稻区试（练习）测试地址1",
+        "degree": "middle",
+        "description": "http://123.127.160.73:8088/NTP",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://192.168.30.111/NTP/login.jsp",
+        "projectName": "水稻区试测试地址2",
+        "degree": "middle",
+        "description": "http://192.168.30.111/NTP",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://kns.cnki.net/kns/brief/default_result.aspx",
+        "projectName": "中国知网",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://tool.chinaz.com/Tools/jsformat.aspx",
+        "projectName": "站长工具 JS/HTML格式化",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.bejson.com/",
+        "projectName": "JSON校验",
+        "degree": "middle",
+        "description": "测试工具",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://sep.ucas.ac.cn/",
+        "projectName": "中国科学院教育云",
+        "degree": "middle",
+        "description": "国科大UCAS",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://mail.cstnet.cn/",
+        "projectName": "中国科学院邮箱",
+        "degree": "middle",
+        "description": "国科大UCAS",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://tool.oschina.net/codeformat/js/",
+        "projectName": "在线代码格式化",
+        "degree": "middle",
+        "description": "测试工具",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.lofter.com/tag/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6?from=tagsearch",
+        "projectName": "中国科学院大学Lofter",
+        "degree": "middle",
+        "description": "国科大UCAS",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://fontawesome.dashgame.com/",
+        "projectName": "Font Awesome",
+        "degree": "middle",
+        "description": "一套绝佳的图标字体库和CSS框架",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/gates/p/4220413.html",
+        "projectName": "CSS浏览器兼容性与解析问题终极归纳",
+        "degree": "middle",
+        "description": "前端开发博客",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jq22.com/yanshi124",
+        "projectName": "jQuery滚动条插件-jQuery custom content scroller",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/hackersaillen/article/details/45694181",
+        "projectName": "实现JS复制、粘贴，Chrome/Firefox下可用",
+        "degree": "middle",
+        "description": "前端开发博客",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://bbs.360.cn/",
+        "projectName": "360社区",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jdon.com/idea/js/mean.html",
+        "projectName": "什么是MEAN全堆栈javascript开发框架",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://segmentfault.com/a/1190000000355221",
+        "projectName": "全栈式 JavaScript 介绍",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/basic/summaryReportDetail/list?reportId=402881615bf6dc54015bf6dd8cfa0001&ecotopeGroupId=402881615b65556b015b669cf06c0002#",
+        "projectName": "汇总报告模板详情列表",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://demo.doyoe.com/css3/justify/",
+        "projectName": "CSS3 justify",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://zhidao.baidu.com/question/1367951550321244659.html",
+        "projectName": "360浏览器中默认为ie11但文档模式为ie5",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/hh54188/archive/2011/04/09/1996469.html",
+        "projectName": "jQuery动画高级用法（上）——详解animation中的.queue()函数",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.ruanyifeng.com/blog/2012/11/require_js.html",
+        "projectName": "Javascript模块化编程（三）：require.js的用法",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.ruanyifeng.com/blog/2011/07/jquery_fundamentals.html",
+        "projectName": "jQuery设计思想",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/webFrontDev/p/3265568.html",
+        "projectName": "jQuery中的Deferred-详解和使用",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://jingyan.baidu.com/article/4b52d7028b99d2fc5c774b83.html",
+        "projectName": "最新版chrome控制台调试js使用",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.ruanyifeng.com/blog/2017/03/reduce_transduce.html",
+        "projectName": "Reduce 和 Transduce 的含义",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.ruanyifeng.com/blog/2011/08/jquery_best_practices.html",
+        "projectName": "jQuery最佳实践",
+        "degree": "middle",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    },
+    {
+        "href": "https://frontsystem.github.io/GKD/index.html",
+        "projectName": "刘东明",
+        "degree": "low",
+        "description": "",
+        "time": "1502767844",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.kendoui.io/",
+        "projectName": "KendoUI中文网",
+        "degree": "low",
+        "description": "",
+        "time": "1504672006",
+        "type": "undo"
+    },
+    {
+        "href": "https://www.telerik.com/kendo-ui",
+        "projectName": "kendo-ui",
+        "degree": "low",
+        "description": "",
+        "time": "1505269737",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.12306.cn/mormhweb/",
+        "projectName": "12306",
+        "degree": "low",
+        "description": "",
+        "time": "1504832248",
+        "type": "undo"
+    },
+    {
+        "href": "http://123.127.160.73:8088/NTP/seed/seed/list",
+        "projectName": "品种列表",
+        "degree": "low",
+        "description": "",
+        "time": "1504256154",
+        "type": "undo"
+    },
+    {
+        "href": "http://bd.scj.xrcch.com/",
+        "projectName": "百度",
+        "degree": "low",
+        "description": "",
+        "time": "1482125385",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jeasyui.net/",
+        "projectName": "EasyUI",
+        "degree": "low",
+        "description": "",
+        "time": "1502692932",
+        "type": "undo"
+    },
+    {
+        "href": "http://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#auto/zh/",
+        "projectName": "百度翻译",
+        "degree": "low",
+        "description": "",
+        "time": "1498438753",
+        "type": "undo"
+    },
+    {
+        "href": "http://192.168.30.112:8080/NTP/summary/process/trialFilter",
+        "projectName": "试验列表",
+        "degree": "low",
+        "description": "",
+        "time": "1502248160",
+        "type": "undo"
+    },
+    {
+        "href": "http://123.127.160.73:8088/NTP/summary/process/trialGroupList",
+        "projectName": "试验组列表1",
+        "degree": "low",
+        "description": "",
+        "time": "1502440794",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/summary/process/trialFilter",
+        "projectName": "试验列表2",
+        "degree": "low",
+        "description": "",
+        "time": "1502250957",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/basic/reportTemplateDetail/edit/add?reportId=40289eef5aa82f04015aaccb675833d3&ecotopeGroupId=40289eef5944481d0159448111a60017",
+        "projectName": "报告模板详情添加",
+        "degree": "low",
+        "description": "",
+        "time": "1500002254",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/scheme/scheme/tab?type=list&userName=admin",
+        "projectName": "区试方案",
+        "degree": "low",
+        "description": "",
+        "time": "1499908315",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/record/collect/list",
+        "projectName": "试验数据管理",
+        "degree": "low",
+        "description": "",
+        "time": "1500340347",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.gucas.ac.cn/",
+        "projectName": "国科大",
+        "degree": "low",
+        "description": "",
+        "time": "1489625907",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnki.net/",
+        "projectName": "中国知网",
+        "degree": "low",
+        "description": "",
+        "time": "1503295651",
+        "type": "undo"
+    },
+    {
+        "href": "https://www.aliyun.com/?spm=0.0.0.0.cK8A6v",
+        "projectName": "阿里云",
+        "degree": "low",
+        "description": "",
+        "time": "1491558915",
+        "type": "undo"
+    },
+    {
+        "href": "http://sou.zhaopin.com/jobs/searchresult.ashx?bj=160000&sj=864&in=210500%3B160400&pd=30&jl=%E5%8C%97%E4%BA%AC&kw=web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&sm=0&p=1&source=0",
+        "projectName": "智联招聘",
+        "degree": "low",
+        "description": "",
+        "time": "1502838094",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.lofter.com/tag/%E5%9B%BD%E7%A7%91%E5%A4%A7?from=tagsearch",
+        "projectName": "国科大｜LOFTER（乐乎） - 让兴趣，更有趣",
+        "degree": "low",
+        "description": "",
+        "time": "1498797576",
+        "type": "undo"
+    },
+    {
+        "href": "https://tieba.baidu.com/f?kw=%CB%AB%D2%BB%C1%F7&fr=ala0&tpl=5",
+        "projectName": "双一流吧",
+        "degree": "low",
+        "description": "",
+        "time": "1495527206",
+        "type": "undo"
+    },
+    {
+        "href": "https://tieba.baidu.com/f?kw=%E4%B8%87%E5%8F%A4%E7%A5%9E%E5%B8%9D&ie=utf-8&tp=0",
+        "projectName": "万古神帝吧",
+        "degree": "low",
+        "description": "",
+        "time": "1495527397",
+        "type": "undo"
+    },
+    {
+        "href": "http://123.127.160.73:8088/NTP/login.jsp",
+        "projectName": "水稻登录",
+        "degree": "low",
+        "description": "",
+        "time": "1496625686",
+        "type": "undo"
+    },
+    {
+        "href": "http://ucass.gscass.cn/html/index.html",
+        "projectName": "中国社会科学院大学",
+        "degree": "low",
+        "description": "",
+        "time": "1496797615",
+        "type": "undo"
+    },
+    {
+        "href": "http://tieba.baidu.com/f?ie=utf-8&kw=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6&fr=search",
+        "projectName": "国科大吧",
+        "degree": "low",
+        "description": "",
+        "time": "1497604175",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/basic/reportTemplateDetail/edit/prepareUpdate?reportId=40288e8e5c1f797c015c1f7abae60000&ecotopeGroupId=40289eef5944481d0159448111a60017&id=402881615d3f0e2a015d3f2873d50007",
+        "projectName": "报告模板详情编辑",
+        "degree": "low",
+        "description": "",
+        "time": "1500516115",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/basic/trait/list",
+        "projectName": "性状管理>性状列表",
+        "degree": "low",
+        "description": "",
+        "time": "1500974558",
+        "type": "undo"
+    },
+    {
+        "href": "http://tieba.baidu.com/f?kw=%C7%B0%B6%CB&fr=ala0&tpl=5",
+        "projectName": "前端吧",
+        "degree": "low",
+        "description": "",
+        "time": "1501147761",
+        "type": "undo"
+    },
+    {
+        "href": "http://tieba.baidu.com/f?kw=%B8%DF%BF%BC&fr=ala0&loc=rec",
+        "projectName": "高考吧",
+        "degree": "low",
+        "description": "",
+        "time": "1501147802",
+        "type": "undo"
+    },
+    {
+        "href": "http://tieba.baidu.com/f?kw=%C7%B0%B6%CB%BF%AA%B7%A2&fr=ala0&tpl=5",
+        "projectName": "前端开发吧-百度贴吧--专注Web前端开发 引邻高端时尚潮流--专注Web前端开发 引邻高端时尚潮流；这是我们前端开发吧的口号，也是我们前进的动力！在贴吧平台中充分发挥前端水平，因为有你，让贴吧更完美。",
+        "degree": "low",
+        "description": "",
+        "time": "1501148106",
+        "type": "undo"
+    },
+    {
+        "href": "http://hb.jjj.qq.com/a/20170712/007717.htm",
+        "projectName": "京张高铁5座车站设计图曝光！霸气！_大燕网河北站_腾讯网",
+        "degree": "low",
+        "description": "",
+        "time": "1502072094",
+        "type": "undo"
+    },
+    {
+        "href": "http://office.nercita.org.cn:8080/Platform/login.php#",
+        "projectName": "用户登陆",
+        "degree": "low",
+        "description": "",
+        "time": "1502155741",
+        "type": "undo"
+    },
+    {
+        "href": "http://tieba.baidu.com/f?kw=%BD%A8%D5%BE&fr=ala0&tpl=5",
+        "projectName": "建站吧-百度贴吧",
+        "degree": "low",
+        "description": "",
+        "time": "1502246800",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/zhang_ps/article/details/52335861",
+        "projectName": "javascript功能插件大集合，写前端的亲们记得收藏 - zhangps的博客 - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1502327492",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jsdaima.com/",
+        "projectName": "js特效代码大全_js代码",
+        "degree": "low",
+        "description": "",
+        "time": "1502328646",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.genshuixue.com/i-cxy/p/11601065",
+        "projectName": "JavaScript 数据库：LokiJS_程序员_非百站新闻_编程语言_跟谁学程序员官网",
+        "degree": "low",
+        "description": "",
+        "time": "1502416143",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.open-open.com/news/view/cda4c5",
+        "projectName": "对于2014年6月最好的JavaScript库 - OPEN资讯",
+        "degree": "low",
+        "description": "",
+        "time": "1502416222",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.oschina.net/p/taffydb",
+        "projectName": "Taffy DB首页、文档和下载 - JavaScript数据库 - 开源中国社区",
+        "degree": "low",
+        "description": "",
+        "time": "1502419093",
+        "type": "undo"
+    },
+    {
+        "href": "http://123.127.160.73:8088/NTP/index",
+        "projectName": "国家水稻品种试验数据管理平台-首页",
+        "degree": "low",
+        "description": "",
+        "time": "1502440776",
+        "type": "undo"
+    },
+    {
+        "href": "http://192.168.14.26:8080/Sample-pbc/breed/crossTask/tab?unit=&castration=%E6%B8%A9%E7%83%AB&breedingListIds=40289ef25dc4e139015dcb00ff164e57%2C40289ef25dc4e139015dcb00ff064e56%2C40289ef25dc4e139015dcb00fee74e55&importance=%E4%B8%80%E8%88%AC&type=addOrEdit",
+        "projectName": "杂交任务",
+        "degree": "low",
+        "description": "",
+        "time": "1502697263",
+        "type": "undo"
+    },
+    {
+        "href": "http://taobaofed.org/",
+        "projectName": "Taobao FED | 淘宝前端团队",
+        "degree": "low",
+        "description": "",
+        "time": "1502764200",
+        "type": "undo"
+    },
+    {
+        "href": "http://nodejs.cn/",
+        "projectName": "Node.js 中文网",
+        "degree": "low",
+        "description": "",
+        "time": "1502845764",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/yayali98/article/details/49124877",
+        "projectName": "nodejs读写json文件 - yayali98的专栏 - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1502854440",
+        "type": "undo"
+    },
+    {
+        "href": "https://www.baidu.com/home/news/data/newspage?nid=4265297556999133017&n_type=0&p_from=1&dtype=-1",
+        "projectName": "2017前端大神都这样用素材网站？看完出乎意料！前端4大素材网站横评。",
+        "degree": "low",
+        "description": "",
+        "time": "1502969399",
+        "type": "undo"
+    },
+    {
+        "href": "https://tinypng.com/",
+        "projectName": "TinyPNG – Compress PNG images while preserving transparency",
+        "degree": "low",
+        "description": "",
+        "time": "1503282800",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.ibeifeng.cn/page/ui.html",
+        "projectName": "UI高级界面设计师高端培训就业课程(Web视觉设计师)",
+        "degree": "low",
+        "description": "",
+        "time": "1503306236",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.ibeifeng.cn/page/web.html",
+        "projectName": "北风网软件工程师系列高端培训就业课程-Web前端",
+        "degree": "low",
+        "description": "",
+        "time": "1503306373",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/shenchao/p/4593660.html",
+        "projectName": "jquery easyui常见问题： - 慧由心生 - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1503396306",
+        "type": "undo"
+    },
+    {
+        "href": "http://transcoder.baiducontent.com/from=1006979s/bd_page_type=1/ssid=0/uid=0/baiduid=83F434F29DC781EB0B648A7B038A723F/w=0_10_/t=zbios/l=3/tc?ref=www_zbios&pu=sz%401320_480%2Ccuid%40luSG8lunHu_WuH8BguH9iguFSalIaSaxlaSP8YaLSa8qa28ngPvRi_a6vt_OP2tHA%2Ccua%40_avLC_aE-i4qywoUfpw1z4PLsiopas8DgN2w8AqqC%2Ccut%400fQfNJtK285iI2I0_hvbhgOYDOpqi3unrqqSB%2Cosname%40baiduboxapp%2Cctv%402%2Ccfrom%401006979s%2Ccen%40cuid_cua_cut%2Ccsrc%40bdbox_tserch_txt%2Cta%40zbios_2_4.4_6_9.1%2Cusm%401%2Cvmgdb%400020100228y&lid=12016683554765736841&order=2&fm=alop&h5ad=1&srd=1&dict=32&tj=www_normal_2_0_10_title&url_mf_score=5&vit=osres&m=8&cltj=cloud_title&asres=1&nt=wnor&title=%E7%94%A8node-webkit%E6%8A%8Aweb%E5%BA%94%E7%94%A8%E6%89%93%E5%8C%85%E6%88%90%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8-%E6%97%A0%E5%8F%8C-%E5%8D%9A%E5%AE%A2%E5%9B%AD&w_qd=IlPT2AEptyoA_yirI5OcZScbOSwot9-HoDtlsPW9de29mFWy&sec=23413&di=f37dd6f6b2a788b0&bdenc=1&tch=124.0.43.282.0.0&nsrc=IlPT2AEptyoA_yixCFOxXnANedT62v3IEQGG_ytK1DK6mlrte4viZQRAEG3aADrIBVWwdoTRtBkCwHWaAT-il17&eqid=a6c3d606a417080010000003599c2e38&wd=&clk_info=%7B%22srcid%22%3A%221599%22%2C%22tplname%22%3A%22www_normal%22%2C%22t%22%3A1503407678181%2C%22sig%22%3A%227066%22%2C%22xpath%22%3A%22div-a-h3%22%7D",
+        "projectName": "用node-webkit把web应用打包成桌面应用 - 无双 - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1503450545",
+        "type": "undo"
+    },
+    {
+        "href": "https://m.baidu.com/from=1006979s/bd_page_type=1/ssid=0/uid=0/baiduid=83F434F29DC781EB0B648A7B038A723F/w=0_10_/t=zbios/l=3/tc?ref=www_zbios&pu=sz%401320_480%2Ccuid%40luSG8lunHu_WuH8BguH9iguFSalIaSaxlaSP8YaLSa8qa28ngPvRi_a6vt_OP2tHA%2Ccua%40_avLC_aE-i4qywoUfpw1z4PLsiopas8DgN2w8AqqC%2Ccut%400fQfNJtK285iI2I0_hvbhgOYDOpqi3unrqqSB%2Cosname%40baiduboxapp%2Cctv%402%2Ccfrom%401006979s%2Ccen%40cuid_cua_cut%2Ccsrc%40home_box_txt%2Cta%40zbios_2_4.4_6_9.1%2Cusm%401%2Cvmgdb%400020100228y&lid=8456894932950073750&order=1&fm=alop&tj=www_normal_1_0_10_title&vit=osres&m=8&srd=1&cltj=cloud_title&asres=1&title=node.js%E9%92%88%E5%AF%B9%E4%B8%8D%E5%90%8C%E7%9A%84%E8%AF%B7%E6%B1%82%E8%B7%AF%E5%BE%84(url)%E5%81%9A%E5%87%BA%E4%B8%8D%E5%90%8C%E7%9A%84..._%E5%8D%9A%E5%AE%A2%E5%9B%AD&dict=30&w_qd=IlPT2AEptyoA_yirI5OcZScbOD9mt-JeoTx1s33eae-6GBBT4Ec0FMRm&sec=23412&di=915cc144f2b61b8a&bdenc=1&tch=124.5.27.132.0.0&nsrc=IlPT2AEptyoA_yixCFOxXnANedT62v3IEQGG_ytK1DK6mlrte4viZQRAUzbuLnyJE5DqvW3CxBt8gGGdWWMj9BV4r_Nqey6ylq&eqid=755ced228d4a400010000003599c2838&wd=&clk_info=%7B%22srcid%22%3A%221599%22%2C%22tplname%22%3A%22www_normal%22%2C%22t%22%3A1503407343759%2C%22sig%22%3A%221310961%22%2C%22xpath%22%3A%22div-a-h3%22%7D&sfOpen=1",
+        "projectName": "node.js 针对不同的请求路径(url) 做出不同的响应 - 金帛 - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1503450564",
+        "type": "undo"
+    },
+    {
+        "href": "https://segmentfault.com/q/1010000004033913",
+        "projectName": "javascript - nodejs打包成exe、apk、ipa的工具（windows开发环境下）有哪些？各有什么特点。 - SegmentFault",
+        "degree": "low",
+        "description": "",
+        "time": "1503450589",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/mather_ye/article/details/68925678",
+        "projectName": "使用nodejs实现对浏览器上传excel并解析数据的实现 - mather_ye的博客 - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1503452377",
+        "type": "undo"
+    },
+    {
+        "href": "http://lib.csdn.net/article/nodejs/58538",
+        "projectName": "node.js上传并解析Excel文件 - Node.js知识库",
+        "degree": "low",
+        "description": "",
+        "time": "1503470505",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/lemoncorporation/article/details/51485859",
+        "projectName": "04.手把手教你 .Net EasyUI DataGrid(弹框式添加数据) - lemoncorporation的博客 - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1503479204",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jeasyui.net/tutorial/147.html",
+        "projectName": "Easyui 创建 CRUD 应用_EasyUI 教程",
+        "degree": "low",
+        "description": "",
+        "time": "1503536604",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/gamedaybyday/p/6637933.html",
+        "projectName": "NodeJS收发GET和POST请求 - gamedaybyday - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1503627302",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.css88.com/tool/html2js/",
+        "projectName": "HTML代码转换为JavaScript字符串-前端开发转换工具 | WEB前端开发",
+        "degree": "low",
+        "description": "",
+        "time": "1503628316",
+        "type": "undo"
+    },
+    {
+        "href": "https://segmentfault.com/q/1010000000251204/a-1020000005692346",
+        "projectName": "node.js怎么配置访问本地的html文件？ - damonare的回答 - SegmentFault",
+        "degree": "low",
+        "description": "",
+        "time": "1503629964",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.dafont.com/",
+        "projectName": "DaFont",
+        "degree": "low",
+        "description": "",
+        "time": "1503636264",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/jiangkai528/article/details/46377299",
+        "projectName": "用NODEJS处理EXCEL文件导入导出,文件上传 - 三积木 - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1503647207",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/u011456337/article/details/50704331",
+        "projectName": "3分钟快速搭建nodejs本地服务器运行测试html/js - 罗_星星的博客 - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1503647550",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.ituring.com.cn/article/274230?utm_source=tuicool&utm_medium=referral",
+        "projectName": "搭建简单的Node.js本地服务器-图灵社区",
+        "degree": "low",
+        "description": "",
+        "time": "1503647745",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.tuicool.com/articles/F7JrMjj",
+        "projectName": "Nodejs学习笔记（八）--- Node.js + Express 实现上传文件功能（felixge/node-formidable） - por... - 推酷",
+        "degree": "low",
+        "description": "",
+        "time": "1503652686",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.runoob.com/nodejs/nodejs-router.html",
+        "projectName": "Node.js 路由 | 菜鸟教程",
+        "degree": "low",
+        "description": "",
+        "time": "1503969937",
+        "type": "undo"
+    },
+    {
+        "href": "http://localhost:8080/NTP/basic/summaryReportTem/list",
+        "projectName": "汇总报告模板管理>汇总报告模板列表",
+        "degree": "low",
+        "description": "",
+        "time": "1504056126",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jianshu.com/p/aeb3d4318d07",
+        "projectName": "关于Node.js的__dirname，__filename，process.cwd()，./... - 简书",
+        "degree": "low",
+        "description": "",
+        "time": "1504149779",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.expressjs.com.cn/guide/routing.html",
+        "projectName": "Express 路由",
+        "degree": "low",
+        "description": "",
+        "time": "1504227920",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.nodeapp.cn/url.html",
+        "projectName": "URL | Node.js v6.10.0 Documentation",
+        "degree": "low",
+        "description": "",
+        "time": "1504228875",
+        "type": "undo"
+    },
+    {
+        "href": "http://kaishu.laoxiezi.com/",
+        "projectName": "楷书字体在线生成器 楷书字体转换器 楷书字在线转换",
+        "degree": "low",
+        "description": "",
+        "time": "1504239706",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.dcloud.io/",
+        "projectName": "DCloud - HBuilder、5+、mui、流应用、HTML5专家",
+        "degree": "low",
+        "description": "",
+        "time": "1504253185",
+        "type": "undo"
+    },
+    {
+        "href": "https://www.baidu.com/home/news/data/newspage?nid=6770361137373535475&n_type=0&p_from=1&dtype=-1",
+        "projectName": "基于Node.js的开源博客系统Ghost 发布1.8.1 版本",
+        "degree": "low",
+        "description": "",
+        "time": "1504485345",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.zcfy.cc/article/what-every-javascript-developer-should-know-about-unicode-1303.html",
+        "projectName": "每个JavaScript开发者都该懂的Unicode - 众成翻译",
+        "degree": "low",
+        "description": "",
+        "time": "1504592229",
+        "type": "undo"
+    },
+    {
+        "href": "http://cnodejs.org/topic/564f32631986c7df7e92b0db",
+        "projectName": "express文件上传中间件Multer最新使用说明 - CNode技术社区",
+        "degree": "low",
+        "description": "",
+        "time": "1504664837",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/chengdabelief/p/6580874.html",
+        "projectName": "express文件上传中间件Multer详解 - Bupt-CCD - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1504664840",
+        "type": "undo"
+    },
+    {
+        "href": "https://github.com/expressjs/multer",
+        "projectName": "expressjs/multer: Node.js middleware for handling `multipart/form-data`.",
+        "degree": "low",
+        "description": "",
+        "time": "1504667958",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.jb51.net/article/35931.htm",
+        "projectName": "js随机颜色代码的多种实现方式_javascript技巧_脚本之家",
+        "degree": "low",
+        "description": "",
+        "time": "1504775032",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/tugenhua0707/p/3776808.html",
+        "projectName": "JS日期格式化转换方法 - 龙恩0707 - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1504848978",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.html5plus.org/doc/zh_cn/accelerometer.html",
+        "projectName": "HTML5+ API Reference",
+        "degree": "low",
+        "description": "",
+        "time": "1505182307",
+        "type": "undo"
+    },
+    {
+        "href": "http://ask.dcloud.net.cn/article/406",
+        "projectName": "流应用开发指南 - DCloud问答",
+        "degree": "low",
+        "description": "",
+        "time": "1505182346",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/ghsau/article/details/8309286",
+        "projectName": "IE下用JavaScript将HTML导出为Word、Pdf - 高爽|Coder - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1505183855",
+        "type": "undo"
+    },
+    {
+        "href": "https://tools.ietf.org/html/rfc5545",
+        "projectName": "RFC 5545",
+        "degree": "low",
+        "description": "",
+        "time": "1505196570",
+        "type": "undo"
+    },
+    {
+        "href": "http://blog.csdn.net/youbl/article/details/29812669",
+        "projectName": "Node.js读写中文内容文件操作 - 水边的专栏 - CSDN博客",
+        "degree": "low",
+        "description": "",
+        "time": "1505268984",
+        "type": "undo"
+    },
+    {
+        "href": "https://www.oschina.net/translate/web-scraping-with-node-js",
+        "projectName": "使用 Node.js 实现的网页抓取 - 技术翻译 - 开源中国社区",
+        "degree": "low",
+        "description": "",
+        "time": "1505269067",
+        "type": "undo"
+    },
+    {
+        "href": "http://c.jinhusns.com/bar/t-829",
+        "projectName": "链接中 href='#' 和 href='###' 的区别以及优缺点 - 产品专区 - 帖吧 - 乎声",
+        "degree": "low",
+        "description": "",
+        "time": "1505701765",
+        "type": "undo"
+    },
+    {
+        "href": "https://github.com/dylang/shortid",
+        "projectName": "dylang/shortid: Short id generator. Url-friendly. Non-predictable. Cluster-compatible.",
+        "degree": "low",
+        "description": "",
+        "time": "1505787840",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/snandy/p/3261754.html",
+        "projectName": "JavaScript生成GUID的算法 - snandy - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1505787849",
+        "type": "undo"
+    },
+    {
+        "href": "http://bbs.51cto.com/thread-1145208-1.html",
+        "projectName": "【Mongodb】_id和ObjectId详解！ - NoSQL论坛 - 51CTO技术论坛_中国领先的IT技术社区",
+        "degree": "low",
+        "description": "",
+        "time": "1505789310",
+        "type": "undo"
+    },
+    {
+        "href": "http://www.cnblogs.com/dolphinX/p/3474568.html",
+        "projectName": "让我欲罢不能的node.js - 谦行 - 博客园",
+        "degree": "low",
+        "description": "",
+        "time": "1505893860",
+        "type": "undo"
+    },
+    {
+        "href": "http://lokeshdhakar.com/projects/lightbox2/",
+        "projectName": "Lightbox",
+        "degree": "low",
+        "description": "",
+        "time": "1506046920",
+        "type": "undo"
+    },
+    {
+        "href": "https://stackoverflow.com/questions/22148080/an-invalid-form-control-with-name-is-not-focusable",
+        "projectName": "html - An invalid form control with name='' is not focusable - Stack Overflow",
+        "degree": "low",
+        "description": "",
+        "time": "1506047541",
+        "type": "undo"
+    }
+]
