@@ -135,9 +135,15 @@ $(document).ready(function (){
         }
     });
 
+    $("#grid .k-grid-import").click(function(){
+        var win=$("#uploadDialog").data("kendoWindow");
+            win.open();
+            win.center();
+    });
+
     $.ajax({
         type: "GET",
-        url: "json/commonUrl.json",
+        url: "../json/commonUrl.json",
         dataType:"json",
         success: function(data){
           var grid = $("#grid").data("kendoGrid");
@@ -169,12 +175,12 @@ $(function(){
       //var file = $('#file').filebox('getValue');
       var file = $('#file').val();
       if(file.length == 0){
-        $error.text('请选择要上传的文件!').css("visibility","visible");
+        $error.text('请选择要导入的书签!').css("visibility","visible");
         return false;
       }
       var extName = file.substring(file.lastIndexOf('.'),file.length).toLowerCase();
-      if(extName != '.xlsx' && extName != '.xls'){
-         $error.text('只支持xlsx文件').css("visibility","visible");             
+      if(extName != '.html' && extName != '.htm'){
+         $error.text('只支持html文件').css("visibility","visible");             
          return false;        
       }
       var fileType=$("input[name='fileType']:checked").val();
@@ -195,14 +201,15 @@ $(function(){
   });
    $("#uploadDialog").kendoWindow({
       pinned: true,
-      actions: [ "Minimize", "Maximize"],
-      //modal: true,
+      actions: ["Close"],
+      modal: true,
+      visible: false,
       width:450,
       height:200,
       position: {
         top: "35%", // or "100px"
         left: "35%"
       },
-      title:"上传文件"
+      title:"导入书签"
     });
 });
